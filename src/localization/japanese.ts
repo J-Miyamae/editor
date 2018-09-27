@@ -158,7 +158,7 @@ export var japaneseStrings = {
     minRateDescription: "Minimum rate description",
     maxRateDescription: "Maximum rate description",
     inputType: "Input type",
-    optionsCaption: "Options caption",
+    optionsCaption: "オプションの見出し",
     defaultValue: "Default value",
     cellsDefaultRow: "Default cells texts",
 
@@ -183,7 +183,7 @@ export var japaneseStrings = {
     startSurveyText: "[スタート]ボタンの文字",
     showNavigationButtons: "ナビゲーションボタンの表示 (初期ナビゲーション)",
     showPrevButton: "[前ページ]ボタンの表示 (前のページに戻ることがあります)",
-    firstPageIsStarted: "The first page in the survey is a started page.",
+    firstPageIsStarted: "最初のページは開始ページとする",
     showCompletedPage: "完了ページの表示(completedHtml)",
     goNextPageAutomatic:
       "全ての質問に回答したとき、自動的に次ページに遷移する",
@@ -340,7 +340,7 @@ export var japaneseStrings = {
   },
   //Test Survey
   ts: {
-    selectPage: "Select the page to test it:"
+    selectPage: "テストするページを選択"
   },
   validators: {
     answercountvalidator: "answer count",
@@ -384,7 +384,7 @@ export var japaneseStrings = {
     width: "幅",
 
     commentText: "コメント",
-    valueName: "valueName",
+    valueName: "値名称",
     enableIf: "有効化の条件",
     defaultValue: "初期値",
     correctAnswer: "正解",
@@ -395,11 +395,11 @@ export var japaneseStrings = {
     hasComment: "コメント欄の表示",
     hasOther: "その他",
     choices: "選択肢",
-    choicesOrder: "選択肢順",
-    choicesByUrl: "choicesByUrl",
+    choicesOrder: "選択肢並び順",
+    choicesByUrl: "URLから選択肢設定",
     otherText: "[その他]の文字",
     otherErrorText: "[その他]の文字エラーテキスト",
-    storeOthersAsComment: "storeOthersAsComment",
+    storeOthersAsComment: "'その他'の値を別フィールドに保持",
 
     label: "ラベル",
     showTitle: "タイトル表示",
@@ -410,7 +410,7 @@ export var japaneseStrings = {
     rows: "rows",
     placeHolder: "プレースホルダー",
 
-    optionsCaption: "optionsCaption",
+    optionsCaption: "オプションの見出",
 
     expression: "expression",
     format: "format",
@@ -450,7 +450,7 @@ export var japaneseStrings = {
 
     items: "items",
     itemSize: "itemSize",
-    colCount: "colCount",
+    colCount: "列数",
 
     templateTitle: "templateTitle",
     templateDescription: "templateDescription",
@@ -480,7 +480,7 @@ export var japaneseStrings = {
     size: "size",
 
     locale: "ロケール",
-    focusFirstQuestionAutomatic: "focusFirstQuestionAutomatic",
+    focusFirstQuestionAutomatic: "先頭の質問にフォーカス",
     completedHtml: "完了時のHtml",
     completedBeforeHtml: "完了前のHtml",
     loadingHtml: "ローディング時のHtml",
@@ -498,14 +498,14 @@ export var japaneseStrings = {
     goNextPageAutomatic: "自動で次ページに遷移",
     checkErrorsMode: "エラーチェックモード",
     clearInvisibleValues: "非表示文字のクリア",
-    startSurveyText: "startSurveyText",
+    startSurveyText: "アンケート開始ボタンの文字",
     pagePrevText: "[前ページ]ボタンの文字",
     pageNextText: "[次ページ]ボタンの文字",
     completeText: "完了時のテキスト",
     requiredText: "必須入力を示す文字",
     questionStartIndex: "質問のインデックス",
     questionTitleTemplate: "質問タイトルのテンプレート",
-    firstPageIsStarted: "firstPageIsStarted",
+    firstPageIsStarted: "最初のページを開始ページ",
     isSinglePage: "シングルページ",
     maxTimeToFinishPage: "ページ終了までの時間",
     showTimerPanel: "タイマーパネル表示",
